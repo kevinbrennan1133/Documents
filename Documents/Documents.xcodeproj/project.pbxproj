@@ -101,13 +101,13 @@
 		466C72E220D40E58003F8380 /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				466C72E320D40E58003F8380 /* AppDelegate.swift */,
 				466C731420D40F3B003F8380 /* DocumentViewController.swift */,
-				466C72E720D40E58003F8380 /* Main.storyboard */,
 				466C731620D4113A003F8380 /* TextViewController.swift */,
+				466C72E720D40E58003F8380 /* Main.storyboard */,
 				466C72ED20D40E5A003F8380 /* Assets.xcassets */,
 				466C72EF20D40E5A003F8380 /* LaunchScreen.storyboard */,
 				466C72F220D40E5A003F8380 /* Info.plist */,
+				466C72E320D40E58003F8380 /* AppDelegate.swift */,
 				466C72EA20D40E58003F8380 /* Documents.xcdatamodeld */,
 			);
 			path = Documents;
